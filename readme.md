@@ -21,7 +21,7 @@ It focuses on clean design, user engagement, and seamless navigation to support 
 - **Fonts**: Google Fonts (Poppins, Heebo, Roboto)
 - **Design**: Custom CSS (main, responsive, utility styles)
 
-##  Folder Structure
+
 
 
 ## How to Run Locally
