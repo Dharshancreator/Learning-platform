@@ -5,14 +5,14 @@ It focuses on clean design, user engagement, and seamless navigation to support 
 
 ##  Features
 
-- 🔹 Multi-page layout (Home, Courses, Blogs, Contact, etc.)
-- 🔹 Responsive design for desktop and mobile devices
-- 🔹 Dark/Light mode toggle for better accessibility
-- 🔹 Course enrollment form with category selection
-- 🔹 Testimonials and reviews section for user feedback
-- 🔹 Newsletter subscription functionality
-- 🔹 Animated sections and hover effects for better UI
-- 🔹 Structured layout with modular components
+-  Multi-page layout (Home, Courses, Blogs, Contact, etc.)
+-  Responsive design for desktop and mobile devices
+-  Dark/Light mode toggle for better accessibility
+-  Course enrollment form with category selection
+-  Testimonials and reviews section for user feedback
+-  Newsletter subscription functionality
+-  Animated sections and hover effects for better UI
+-  Structured layout with modular components
 
 ##  Tech Stack
 
